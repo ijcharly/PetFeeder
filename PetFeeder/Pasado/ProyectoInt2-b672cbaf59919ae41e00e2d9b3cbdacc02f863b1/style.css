@@ -1,0 +1,90 @@
+body {
+    background-color: #006E6D;
+}
+
+#header {
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+th, td {
+    width: 5em;
+}
+
+.button {
+    background: #e53935;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: auto;
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tiempo {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 10px 10px;
+    margin: auto;
+}
+
+#horas {
+    margin-right: 15px;
+    margin-top: 0.5cm;
+}
+
+#minutos {
+    margin-left: 15px;
+    margin-top: 0.5cm;
+}
+
+.motor {
+    text-align: center;
+    font-family: inherit;
+    font-size: 15px;
+    padding: 10px 10px;
+    margin: auto;
+}
+
+#vueltas {
+    margin-right: 15px;
+    margin-top: 0.5cm;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    font-size: 22px;
+    margin-top: 0.5cm;
+}
+
+input[type=submit]{
+    text-align: center;
+    background: #4caf50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: auto;
+    margin-top: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr{
+    width: 70%;
+    margin-top: 5em;
+    color: white;
+}
