@@ -1,5 +1,5 @@
 body {
-    background-image:url('Img/miel.png');     
+    background-image:url('miel.png');     
     width: auto;
     height: auto;
 }
@@ -91,7 +91,7 @@ p{
     width: 120px;
     top: -72px;
     border-radius: 50%;
-    background-image:url('Img/perra.png');
+    background-image:url('perra.png');
     padding: 10px;
     margin-left: auto;
     margin-right: auto;
